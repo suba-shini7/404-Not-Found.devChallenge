@@ -1,0 +1,34 @@
+.heading{
+	font-family: 'Inconsolata', monospace;
+	font-size: 24px;
+	letter-spacing: -8%;
+	font-weight: bold;
+}
+.bannertxt{
+	font-family: 'Space Mono', monospace;
+	font-size: 64px;
+	font-weight: bold;
+}
+.bannertxt2{
+	font-family: 'Space Mono', monospace;
+	font-size: 24px;
+letter-spacing: -4%;
+color: #4F4F4F;
+}
+.btn{
+	height: 70px;
+	width: 220px;
+	border-radius: 0;
+}
+span{
+   text-decoration: underline;
+   font-family: 'Montserrat', sans-serif;
+   color: #BDBDBD;
+   font-size: 14px;
+
+}
+.endtxt{
+	font-family: 'Montserrat', sans-serif;
+   color: #BDBDBD;
+   font-size: 14px;
+}
